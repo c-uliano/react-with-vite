@@ -8,7 +8,7 @@ Just testing it out, documenting any differences between using Vite and using cr
 - <code>npm create vite@latest</code>
 - Name the app. For a full stack app name it <code>client</code>
 - Select <code>react</code> or <code>react-ts</code>
-- Select <code>JavaScript + SWC</code> option
+- Select <code>JavaScript + SWC</code> or <code>TypeScript + SWC</code> option
 - <code>cd your-project-name-here</code>
 - <code>npm i</code>
 - <code>npm run dev</code>
