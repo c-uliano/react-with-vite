@@ -14,4 +14,4 @@ Just testing it out, documenting any differences between using Vite and using cr
 - <code>npm run dev</code>
 
 ## Additional packages to install
-- npm i sass
+- `npm i sass`
